@@ -7,3 +7,5 @@ tuple_ = ([1, 2, 0], 2)
 print(tuple_)
 tuple_[0][0] = 4
 print(tuple_)
+list_ = [1, 2, 0]
+print(list_)
